@@ -11,21 +11,26 @@ environment:
 dependencies:
   media_kit_libs_android_video:
     git:
+      ref: 1.8.0
       url: https://github.com/mrRedSun/media-kit-full.git
       path: libs/android/media_kit_libs_android_video
   media_kit_libs_ios_video:
     git:
+      ref: 1.8.0
       url: https://github.com/mrRedSun/media-kit-full.git
       path: libs/ios/media_kit_libs_ios_video
   media_kit_libs_macos_video:
     git:
+      ref: 1.8.0
       url: https://github.com/mrRedSun/media-kit-full.git
       path: libs/macos/media_kit_libs_macos_video
   media_kit_libs_windows_video:
     git:
+      ref: 1.8.0
       url: https://github.com/mrRedSun/media-kit-full.git
       path: libs/windows/media_kit_libs_windows_video
   media_kit_libs_linux:
     git:
+      ref: 1.8.0
       url: https://github.com/mrRedSun/media-kit-full.git
       path: libs/linux/media_kit_libs_linux

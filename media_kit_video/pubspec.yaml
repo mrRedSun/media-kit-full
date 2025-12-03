@@ -21,6 +21,7 @@ dependencies:
 
   media_kit:
     git:
+      ref: 1.8.0
       url: https://github.com/mrRedSun/media-kit-full.git
       path: media_kit
 
